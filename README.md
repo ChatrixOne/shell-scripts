@@ -1,3 +1,3 @@
 # Linux Shell Scripts
 
-- ejabberd - [CAPTCHA Six Digit Random Pale Color Generator](https://github.com/MrEddX/shell-scripts/tree/main/ejabberd)
+- ejabberd - A hardened split-image CAPTCHA generator written in pure POSIX shell, using ImageMagick. Built specifically to protect ejabberd In-Band Registration (IBR) from automated bot signups.
